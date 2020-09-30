@@ -1,4 +1,4 @@
 # School-Project
 
 
-f
+This is just school project and Data of me learning code 
